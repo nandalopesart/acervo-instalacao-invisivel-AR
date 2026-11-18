@@ -61,9 +61,9 @@ Antes de ir para a plataforma, é importante organizar seus arquivos:
 #### Materiais Gráficos
 Sinalizações desenvolvidas para exposição urbana. Contém instruções para o público e QR Codes. Você pode baixar os cartazes das intervenções criadas para esta pesquisa em .pdf, prontos para impressão, ou baixar os arquivos editáveis para customizar com sua própria arte e QR Codes.
 
-[Clique aqui para baixar PDF](assets/pdf)
+[Clique aqui para baixar PDF](assets/pdfs)
 
-[Clique aqui para baixar modelos editáveis](LINK_DO_MODELO_EDITAVEL_AQUI)
+[Clique aqui para baixar modelos editáveis](assets/templates)
 
 ---
 
